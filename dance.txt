@@ -1,0 +1,3 @@
+Up, down, left, right
+that's all I know. 
+Oh wait, you can rotate as well.
